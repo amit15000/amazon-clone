@@ -19,7 +19,7 @@ function Product() {
         src="https://m.media-amazon.com/images/I/81vvgZqCskL._AC_UY218_.jpg"
         alt=""
       />
-      <button>Add to Basket</button>
+      <button className="product_button">Add to Basket</button>
     </div>
   );
 }
